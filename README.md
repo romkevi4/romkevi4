@@ -39,4 +39,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romkevi4&layout=compact&theme=transparent&hide_border=enabled&text_color=696969&title_color=066baa)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![codewars](https://www.codewars.com/users/romkevi4/badges/small)](https://www.codewars.com/users/Irina-T)
+[![codewars](https://www.codewars.com/users/romkevi4/badges/small)](https://www.codewars.com/users/romkevi4)
